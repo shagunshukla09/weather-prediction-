@@ -11,5 +11,5 @@ Welcome to the Weather Prediction project! This project aims to provide accurate
 - Utilizes machine learning algorithms such as Back testing and Neural Networks
 - Supports visualization of weather trends and prediction results
 - Easy-to-use interface for inputting data and viewing predictions
-
+this weather pridiction uses LSTM.1111
 
